@@ -39,7 +39,6 @@ We have explored various different approaches in this project. For detailed code
 2. [Approach 2: NLP Training](https://colab.research.google.com/drive/1F7JO2SLnNVLxPey65Qi3xmOLnlK_LhOQ?usp=sharing)
 3. [Approach 3: Using different models for summarization](https://colab.research.google.com/drive/1Bb0B_cBjW6QwBMgv4KDXKNUbB89Sgp8f?usp=sharing)
 4. [Approach 4: Using different models for Translation and generating audio of translated Summary](https://colab.research.google.com/drive/1bhnv7gfPqnu6ylz-8dh5WtFZtykq-479?usp=sharing)
-   (Add more approaches if applicable)
 
 ---
 #### Note:
